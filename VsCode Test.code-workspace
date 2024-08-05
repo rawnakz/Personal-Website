@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/VsCode Test"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Personal"
+	}
+}
